@@ -1,5 +1,5 @@
 import { Award, Leaf, Users } from 'lucide-react';
-import homeImage from "../public/home_page.jpg"
+import homeImage from "../public/paddyImage1.jpg"
 
 export default function Home() {
   return (
